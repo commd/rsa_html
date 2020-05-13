@@ -1,0 +1,18 @@
+.user {
+    display: none;
+  }
+
+body,
+html {
+  background: #3e5f80;
+}
+
+body {
+  padding-top: 100px;
+}
+
+@media (min-width: 992px) {
+  body{
+    padding-top: 40px;
+  }
+ }
